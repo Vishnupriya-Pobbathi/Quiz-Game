@@ -1,0 +1,21 @@
+*{
+margin:0;
+padding:0;
+font-family: 'Kaushan Script', cursive;
+}
+
+#backimg{
+background:linear-gradient(rgba(0,0,0,0.5),#009688),url(images/backgroundimage.jpeg);
+background-size:cover;
+background-position:center;
+height:100vh;
+}
+
+.back-text h1{
+font-size:130px;
+}
+
+.back-text p{
+font-size:30px;
+font-style:italic;
+}
